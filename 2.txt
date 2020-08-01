@@ -1,1 +1,2 @@
-fight like never before
+fight like never before modified
+editing for merge conflict
