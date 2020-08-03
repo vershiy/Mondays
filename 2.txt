@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fight like never before
-editting on master branch
+
+=======
+fight like never before modified
+editing for merge conflict
+>>>>>>> firstbranch
